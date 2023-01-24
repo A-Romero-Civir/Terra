@@ -1,0 +1,9 @@
+
+# nixago: ignore-linked-files
+treefmt.toml
+
+#custom
+.terraform
+*.tfstate
+*.tfstate.backup
+.std
